@@ -1,4 +1,4 @@
-package com.learn.bigdata.movie.mr.movieJoinRatting;
+package com.learn.bigdata.movie.mr.movieReduceJoinRatting;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;

@@ -1,6 +1,5 @@
-package com.learn.bigdata.movie.mr.movieJoinRatting;
+package com.learn.bigdata.movie.mr.movieReduceJoinRatting;
 
-import com.learn.bigdata.artist.mr.AristJoinAristUser1.AristJoinAristUserMapper;
 import org.apache.commons.lang.StringUtils;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;

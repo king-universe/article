@@ -1,8 +1,6 @@
-package com.learn.bigdata.movie.mr.movieJoinRatting;
+package com.learn.bigdata.movie.mr.movieReduceJoinRatting;
 
 import com.learn.bigdata.artist.mr.AristJoinAristUser.AristJoinAristUserDriver;
-import com.learn.bigdata.artist.mr.AristJoinAristUser.AristJoinAristUserMapper;
-import com.learn.bigdata.artist.mr.AristJoinAristUser.AristJoinAristUserReducer;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
